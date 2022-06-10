@@ -1,0 +1,56 @@
+body{
+    background-image: url("../assets/bg-main-desktop.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    font-family: sans-serif;
+}
+
+h2{
+    background-color: rgba(15, 73, 233, 0.438);
+    line-height: 100px;
+    font-size: 44px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 5px;
+    border: 3px dashed rgb(216, 134, 241);
+    color: rgb(13, 13, 14);  
+}
+
+.properties{
+    font-style: italic;
+    font-family: cambria;
+    font-size: 20px;
+}
+
+h2 .music{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.illustration img{
+    height: 200px;
+    width: 100px;
+    transition: all 2s ease-in-out 300ms;
+}
+
+h3{
+    background-color: rgba(15, 73, 233, 0.438);
+    border: 2px dashed rgb(216, 134, 241);
+}
+.specs{
+    font-family: cambria;
+    font-size: 20px;
+    font-style: italic;
+}
+.price{
+    color: rgb(14, 209, 199);
+    font-size: 18px;
+    font-style: oblique;
+}
+.rights{
+    font-size: 10px;
+    font-style: italic;
+}
+.download{
+    font-size: 15;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
